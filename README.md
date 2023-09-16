@@ -17,3 +17,5 @@ NO LB-126
 - [x] Develop the timesheet.
 
 **Week 2**
+
+![Intro Meme](_readme/winniehtml.jpg)
