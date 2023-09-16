@@ -7,7 +7,7 @@ Intro to Web Development
 [Professor Email](mailto:bernie.monette@humber.ca)
 
 **Monday**  
-10:45a-1:25p 
+10:45a-1:25p  
 NO LB-126
 
 ## Weekly To-Do
