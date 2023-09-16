@@ -10,6 +10,9 @@ Intro to Web Development
 10:45a-1:25p  
 NO LB-126
 
+> [!Important]
+> *No assigned assignments.*
+
 ## Weekly To-Do
 
 **Week 1**
@@ -17,7 +20,7 @@ NO LB-126
 - [x] Develop the timesheet.
 
 **Week 2**
-- [ ] Week 2 Prep
+- [ ] Week 2/3 Prep (Keep an eye on Blackboard)
 
 
 ![Intro Meme](_readme/winniehtml.jpg)
