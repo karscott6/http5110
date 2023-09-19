@@ -11,7 +11,7 @@ Intro to Web Development
 NO LB-126
 
 > [!Important]
-> *No assigned assignments.*
+> TimeSheet Due October 20th THROUGH EMAIL.
 
 ## Weekly To-Do
 
@@ -20,7 +20,7 @@ NO LB-126
 - [x] Develop the timesheet.
 
 **Week 2**
-- [ ] Week 2/3 Prep (Keep an eye on Blackboard)
+- [x] Week 2/3 Prep (Keep an eye on Blackboard)
 
 
 ![Intro Meme](_readme/winniehtml.jpg)
