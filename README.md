@@ -22,5 +22,13 @@ NO LB-126
 **Week 2**
 - [x] Week 2/3 Prep (Keep an eye on Blackboard)
 
+**Week 3**
+- [x] Submitted Assignment: Build a Website IN-CLASS
+- [ ] Week 4 Prep
+
+**Week 4**
+- [ ] 
+- [ ] 
+
 
 ![Intro Meme](_readme/winniehtml.jpg)
